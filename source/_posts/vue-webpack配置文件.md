@@ -4,7 +4,7 @@ date: 2017-03-20 09:24:49
 tags: 前端
 ---
 今天来总结一下自己搭建vue开发环境的一些心得，其实最重要的就是webpack的配置，下面直接贴出配置代码：
-```
+```javascript
 var path = require("path");
 module.exports = {
 	entry: {
@@ -52,7 +52,7 @@ module.exports = {
 ```
 
 以及package.json文件：
-```
+```json
 {
   "name": "h5app",
   "version": "1.0.0",
