@@ -70,8 +70,8 @@ theme: material
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  # repo: https://github.com/yoler/yoler.github.io/
-  repo: ssh://git@github.com/yoler/yoler.github.io
+  repo: https://git.coding.net/Yoler-Lei/yoler.git
+  # repo: ssh://git@github.com/yoler/yoler.github.io
 
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
