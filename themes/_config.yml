@@ -220,8 +220,8 @@ search:
 # Available value:
 #     baidu | google | cnzz
 analytics:
-    use:
-    site_id:
+    use: baidu
+    site_id: f93c9d15d90e8036955f2a246ba5de74
 
 # Leancloud Views
 leancloud:
